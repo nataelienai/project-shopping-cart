@@ -6,6 +6,8 @@ Shopping Cart é uma página de compras onde há diversos produtos à venda, sen
 
 Projeto desenvolvido utilizando HTML, CSS e JavaScript na construção da página, localStorage para armazenar os produtos no carrinho de compras, Jest nos testes unitários e a [API do Mercado Livre](https://developers.mercadolivre.com.br/pt_br/itens-e-buscas) para a obtenção de produtos à venda.
 
+O conteúdo da pasta `mocks`, os arquivos `index.html` e `style.css` e as funções `createProductImageElement`, `createCustomElement`, `createProductItemElement`, `getSkuFromProductItem` e `createCartItemElement` do arquivo `script.js` foram fornecidas pela [Trybe](https://betrybe.com).
+
 ## Instalação das dependências
 
 Você precisará de um ambiente de execução [Node.js](https://nodejs.org) instalado em sua máquina para executar o comando de instalação de dependências.
